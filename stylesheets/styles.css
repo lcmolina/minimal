@@ -1,13 +1,13 @@
 body {
-  background-color: #fff;
+  background-color: #bfccd9;
   padding:50px;
-  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 14px/1.5 -apple-system, "courier";
   color:#595959;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#999900;
   margin:0 0 20px;
 }
 
@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  color:#069;
+  color:#52547a;
 }
 
 a small {
@@ -67,7 +67,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family:Courier New, monospace;
   color:#333;
 }
 
