@@ -1,0 +1,54 @@
+
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>l.c.m. — portfolio</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 style="font-family:'Avenir Next';color: ##edf968 
+                   ;"<a href="https://lcmolina.github.io/portfolio/">lauren c. molina</h1>
+        <p style="font-family:'Avenir Next'"> ● last updated 2019 04 06 ●
+</p>
+       </p>
+       </p></p>
+               <p style="font-family:'Avenir Next'"><a href="https://lcmolina.github.io/portfolio">home</a></p>
+               <p style="font-family:'Avenir Next'"><a href="https://lcmolina.github.io/portfolio/page1.html">who?</a></p>
+      <p style="font-family:'Avenir Next'"><a href="https://lcmolina.github.io/portfolio/page3.html">work</a></p>
+<p style="font-family:'Avenir Next'"><a href="https://lcmolina.github.io/portfolio/page5.html">advising history</a></p>
+ <p style="font-family:'Avenir Next'"><a href="https://lcmolina.github.io/portfolio/page4.html">course lists</a></p>
+
+
+        </ul>
+      </header>
+      <section>
+        <h1 style="font-family:'Avenir Next'">CV</h1>
+
+       
+
+
+
+ <p style="font-family:'Avenir Next';color: #ffffff">
+   ● P</p>
+ <br><p style="font-family:'Avenir Next';font-size:12px">
+</a></p>
+ </section>
+      <footer>
+       
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
