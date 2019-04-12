@@ -45,6 +45,8 @@ a:hover {
 a:active {
   color: #c1d9ff;
 }
+a:visited {
+  color:  #c1d9ff;
 
 a small {
   font-size:11px;
