@@ -42,6 +42,9 @@ a {
 a:hover {
   color:#fcc4b0;
 }
+a:active {
+  color: #c1d9ff;
+}
 
 a small {
   font-size:11px;
