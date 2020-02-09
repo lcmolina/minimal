@@ -11,7 +11,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#edf968;
+  color:#000000;
   margin:0 0 20px;
 }
 
@@ -29,40 +29,40 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#000000;
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#000000;
   font-weight: 500;
 }
 
 a {
-  color:#ff8559;
+  color:#000000;
   text-decoration:none;
 }
 
 a:hover {
-  color:#fcc4b0;
+  color:#000000;
 }
 a:active {
-  color: #c1d9ff;
+  color: #000000;
 }
 
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#000000;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#000000;
 }
 a:active {
-  color: #c1d9ff;
+  color: #000000;
 }
 
 .wrapper {
@@ -125,7 +125,7 @@ header ul {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #dbd1c5;
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
@@ -161,7 +161,7 @@ header ul a:hover {
 }
 
 header ul a:active {
-  background-color:#f0f0f0;
+  background-color:#dbd1c5;
 }
 
 strong {
@@ -192,7 +192,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#dbd1c5;
   height:1px;
   margin:0 0 20px;
 }
