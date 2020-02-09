@@ -1,8 +1,12 @@
 body {
-  background-color: #37344f ;
+    background-image: url("https://raw.githubusercontent.com/lcmolina/portfolio/master/dearcreek_2019.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 1000px;
+  background-color: #dbd1c5
   padding:40px;
   font: 18px/1.5 -apple-system, "Avenir-Next";
-  color:#ffffff;
+  color:#000000;
   font-weight:400;
 }
 
